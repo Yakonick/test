@@ -1,0 +1,209 @@
+"Anarchism" is the political theory that advocates the abolition of all forms of government. 
+Anarchism is the political theory that advocates the abolition of all forms of government. 
+"Anarchism" -> Anarchism	R:NOUN
+
+
+Ludwig von Mises Insitute] 
+von Mises Insitute] 
+Ludwig -> 	U:NOUN
+
+
+This theory of anarchism calls for a system of socialism, with collective ownership of means of production, without the need for any government authority or coercion. 
+This theory of anarchism calls for a system of socialism, notably with collective ownership of means of production, without the need for any government authority or coercion. 
+ -> notably	M:ADV
+
+
+While some historians trace the roots of European anarchism to movements such as the Free Spirit in the middle ages, there was no cohesive ideology until the nineteenth century. 
+While some historians trace the roots of (European) anarchism to movements such as the Free Spirit in the middle ages, there was no cohesive ideology until the nineteenth century. 
+European -> (European)	R:ADJ
+
+
+Major advocates of anarchism in that era included Leo Tolstoy, Proudhon, Peter Kropotkin, and Mikhail Bakunin. 
+Major advocates of anarchism in that era included Tolstoy, Proudhon, Kropotkin, and Bakunin. 
+Leo -> 	U:NOUN
+Peter -> 	U:NOUN
+Mikhail -> 	U:NOUN
+
+
+The Tolstoian tradition of non-violent resistance is prevalent among many anarchists 
+The Tolstoian tradition of non-violence is prevalent among many anarchists 
+resistance -> 	U:NOUN
+
+
+others believe that violence (especially self-defense and property damage) is justified in reaction to what they see as oppression. 
+others believe that violence (especially self-defense) is justified in reaction to what they see as oppression. 
+and property damage) -> 	U:OTHER
+
+
+Like anarcho-capitalists, they put an emphasis on individual rights and liberty, and on market-based approaches. 
+Like anarcho-capitalists, they put an emphasis on individual rights and liberty, and on market-based approaches rather than collectivism. 
+approaches. -> approaches	R:NOUN
+
+
+Anarchy as Anomie. 
+Anarchy (Anomy). 
+as -> 	U:PREP
+Anomie. -> (Anomy).	R:NOUN
+
+
+However, anomie has also been embraced by countercultural elements such as punk rock. 
+However, anomy has also been embraced by countercultural elements such as punk rock. 
+anomie -> anomy	R:MORPH
+
+
+Libertarian socialists consider that an employer-employee relationship is based on coercion by the employer, and that all coercion should be prevented, even if oppressed employees are passively consenting out of weakness and ignorance. 
+Libertarian socialists consider that an employer-employee relationship is based on coercion by the employer, which constitutes a de facto government, and should be prevented, even if oppressed employees are passively consenting out of weakness and ignorance. 
+that all coercion -> 	U:OTHER
+
+
+Finally, the term "anarchy" is frequently used as a perjorative in reference to anomy. 
+Finally, the term "anarchy" is frequently used improperly as a perjorative in reference to anomie. 
+ -> improperly	M:ADV
+anomy. -> anomie.	R:NOUN
+
+
+Finally, the term "anarchy" is frequently used as a perjorative in reference to anomy. 
+Finally, the term "anarchy" is frequently used improperly as a perjorative in reference to anomie. 
+ -> improperly	M:ADV
+anomy. -> anomie.	R:NOUN
+
+
+Major advocates of anarchism in that era included Tolstoy, Proudhon, Kropotkin, and Bakunin. 
+Major advocates of anarchism in that era included Leo Tolstoy, Proudhon, PeterKropotkin, and Mikhail Bakunin. 
+ -> Leo	M:NOUN
+Kropotkin, -> PeterKropotkin,	R:NOUN
+ -> Mikhail	M:NOUN
+
+
+Anarchy (Anomy). 
+Anarchy as Anomie. 
+ -> as	M:PREP
+(Anomy). -> Anomie.	R:NOUN
+
+
+These divisions are excarbated by a very polemical debate around the names of various types of anarchism and related ideas. 
+These visions have created a very polemical debate around the names of various types of anarchism and related ideas. 
+divisions -> visions	R:NOUN
+are -> have	R:VERB:TENSE
+
+
+Finally, the term "anarchy" is frequently used improperly as a perjorative in reference to anomie. 
+Finally, the term "anarchy" is frequently used as a perjorative in reference to anomie. 
+improperly -> 	U:ADV
+
+
+This theory of anarchism calls for a system of socialism, notably with collective ownership of means of production, without the need for any government authority or coercion. 
+This theory of anarchism calls for a system of socialism, with collective ownership of means of production, without the need for any government authority or coercion. 
+notably -> 	U:ADV
+
+
+While some historians trace the roots of (European) anarchism to movements such as the Free Spirit in the middle ages, there was no cohesive ideology until the nineteenth century. 
+While some historians trace the roots of European anarchism to movements such as the Free Spirit in the middle ages, there was no cohesive ideology until the nineteenth century. 
+(European) -> European	R:ADJ
+
+
+The Tolstoian tradition of non-violence is prevalent among many anarchists 
+The Tolstoian tradition of non-violent resistance is prevalent among many anarchists 
+ -> resistance	M:NOUN
+
+
+others believe that violence (especially self-defense) is justified in reaction to what they see as oppression. 
+others believe that violence (especially self-defense and property damage) is justified in reaction to what they see as oppression. 
+ -> and property damage)	M:OTHER
+
+
+Libertarian socialists consider that an employer-employee relationship is based on coercion by the employer, which constitutes a de facto government, and should be prevented, even if oppressed employees are passively consenting out of weakness and ignorance. 
+Libertarian socialists consider that an employer-employee relationship is based on coercion by the employer, and that all coercion should be prevented, even if oppressed employees are passively consenting out of weakness and ignorance. 
+ -> that all coercion	M:OTHER
+
+
+Libertarian socialists and anarcho-capitalists view each other with hostility. 
+Libertarian socialists and anarcho-capitalists view each other's ideas with hostility. 
+ -> ideas	M:NOUN
+
+
+Different groups have radically different visions of what anarchism means: libertarian socialists intend anarchism to mean an abolition of all forms of hierarchy: political, economic, and otherwise 
+These theories have radically different visions of what anarchism means: libertarian socialists intend anarchism to mean an abolition of all forms of hierarchy: political, economic, and otherwise 
+groups -> theories	R:NOUN
+
+
+Like anarcho-capitalists, they put an emphasis on individual rights and liberty, and on market-based approaches rather than collectivism. 
+Like anarcho-capitalists, they put an emphasis on individual rights and liberty, and on market-based approaches. 
+approaches -> approaches.	R:NOUN
+
+
+Although in different places, "anarchism" is variously understood as being either socialist or capitalist, when unadorned, anarchism popularly denotes libertarian socialism. 
+Although in different places, "anarchism" is variously understood as being either socialist or capitalist, when unadorned, however, anarchism popularly denotes libertarian socialism. 
+ -> however,	M:NOUN
+
+
+These theories have radically different visions of what anarchism means: libertarian socialists intend anarchism to mean the replacement of all forms of hierarchy (political, economic, and otherwise) by democratically-controled and collective-owned organizations 
+These theories have radically different visions of what anarchism means: libertarian socialists intend anarchism to mean the replacement of all forms of hierarchy (political, economic, and otherwise) by democratically-controled and collectively-owned organizations 
+collective-owned -> collectively-owned	R:ADJ
+
+
+This has left a lasting public impression that libertarian socialists are violent terrorists, a prejudice not aided by events such as the Haymarket Massacre, where anarchists were (probably wrongly) blamed for throwing a bomb at police who came to break up a public meeting in Chicago. 
+This has left a lasting public impression that libertarian socialists are violent terrorists, a prejudice not aided by events such as the Haymarket Riot, where anarchists were (probably wrongly) blamed for throwing a bomb at police who came to break up a public meeting in Chicago. 
+Massacre, -> Riot,	R:NOUN
+
+
+There are several anarchist thinkers, such as Benjamin Tucker, Lysander Spooner and Max Stirner which are known as individualist anarchists. 
+There are several anarchist thinkers, such as Benjamin Tucker, Lysander Spooner and Max Stirner who are known as individualist anarchists. 
+which -> who	R:PRON
+
+
+Like anarcho-capitalists, they put an emphasis on individual rights and liberty, and on market-based approaches rather than collectivism. 
+Like anarcho-capitalists, they put an emphasis on individual rights and liberty, and on market-based approaches. 
+approaches -> approaches.	R:NOUN
+
+
+Anarchy (Anomy). 
+Anarchy as Anomie. 
+ -> as	M:PREP
+(Anomy). -> Anomie.	R:NOUN
+
+
+Libertarian socialists consider that an employer-employee relationship is based on coercion by the employer, which constitutes a de facto government, and should be prevented, even if oppressed employees are passively consenting out of weakness and ignorance. 
+Libertarian socialists consider that an employer-employee relationship is based on coercion by the employer, and that all coercion should be prevented, even if oppressed employees are passively consenting out of weakness and ignorance. 
+ -> that all coercion	M:OTHER
+
+
+individualist anarchists insist above all on individual freedom from state. 
+individualist anarchists insist above all on individual freedom from the state. 
+ -> the	M:DET
+
+
+See also: nihilism, syndicalism, libertarianism, situationism, primitivism 
+See also: nihilism, syndicalism, libertarianism, situationism, primitivism, Adam Rinkleff 
+primitivism -> primitivism,	R:NOUN
+ -> Adam Rinkleff	M:NOUN
+
+
+See also: nihilism, syndicalism, libertarianism, situationism, primitivism 
+See also: nihilism, syndicalism, libertarianism, situationism, primitivism, Adam Rinkleff 
+primitivism -> primitivism,	R:NOUN
+ -> Adam Rinkleff	M:NOUN
+
+
+Anarcho-syndicalistic communists believe that supreme executive power derivces from a mandate from the masses, not from ceremonial tradition. 
+Anarcho-syndicalistic communists believe that supreme executive power derivces from a mandate from the masses, not from some farcical aquatic ceremony. 
+ -> some	M:DET
+ceremonial -> farcical aquatic	R:ADJ
+tradition. -> ceremony.	R:NOUN
+
+
+Although in different places, "anarchism" is variously understood as being either socialist or capitalist, when unadorned, however, anarchism popularly denotes libertarian socialism, communism, socialism, democracy, and pacifism. 
+Although in different places, "anarchism" is variously understood as being either socialist or capitalist, when unadorned, however, anarchism popularly denotes libertarian socialism, communism, socialism, democracy,pacifism, and syndicalism. 
+democracy, -> democracy,pacifism,	R:NOUN
+pacifism. -> syndicalism.	R:NOUN
+
+
+Although in different places, "anarchism" is variously understood as being either socialist or capitalist, when unadorned, however, anarchism popularly denotes libertarian socialism, communism, socialism, democracy,pacifism, and syndicalism, libertarian communists, left-anarchists, anarcho-communists, anarcosocial-communists, and green anarchists. 
+Although in different places, "anarchism" is variously understood as being either socialist or capitalist, when unadorned, however, anarchism popularly denotes libertarian socialism, communism, socialism, democracy,pacifism, and syndicalism, libertarian communism, left-anarchism, anarcho-communism, anarcosocial-communism, green anarchim, and anarcho-primitivism. 
+communists, -> communism,	R:NOUN
+left-anarchists, -> left-anarchism,	R:NOUN
+anarcho-communists, -> anarcho-communism,	R:NOUN
+anarcosocial-communists, -> anarcosocial-communism,	R:NOUN
+and -> 	U:CONJ
+
+
